@@ -13,5 +13,5 @@ _G.GPOTIONS = {"Coins","Lucky","Treasure Hunter","Walkspeed","Diamonds","Damage"
 _G.GPOTIONS_MAX_TIER = 19
 _G.GENCHANTS = {"Tap Power", "Coins", "Treasure Hunter", "Strong Pets", "Criticals", "Diamonds"}
 _G.GWEBHOOK_USERID = "1300483506383749192" -- your discord userID, not your name. numerical id.
-_G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1317995066354040933/u5l0XofAM5z8xmu_oJYnkpZSvItqHdHq9T5XFvY_xd0Fux7wOPNv6-gqnYqkYj2oOe8d" -- a webhook URL from your private discord channel.
+_G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1305952211469336607/pD-bV7LE0YEwpkX92W6L7QYS6HZd8ET9YWSen2Novaup3Gw8uqtcUO9l9iQ9ve1VnUCU" -- a webhook URL from your private discord channel.
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/34915da4ad87a5028e1fd64efbe3543f.lua"))()
