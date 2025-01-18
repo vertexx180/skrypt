@@ -1,6 +1,6 @@
 script_key = "your-key";
 _G.GDO_PETGAMES_EVENT = true
-_G.GMAX_MAIL_COST = "2500k" -- choose yourself
+_G.GMAX_MAIL_COST = "250k" -- choose yourself
 _G.GPAW_RAFFLE_ENTRIES = 250 -- I would just always put what you have in each raffle tbh to spread out the chances
 _G.GDO_CONTROL_ROOM = false -- not sure atm
 _G.GGFX_MODE = 1
