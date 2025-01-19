@@ -10,6 +10,13 @@ _G.GWEBHOOK_USERID = "1300483506383749192"
 _G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1305952211469336607/pD-bV7LE0YEwpkX92W6L7QYS6HZd8ET9YWSen2Novaup3Gw8uqtcUO9l9iQ9ve1VnUCU"
 _G.GMAIL_RECEIVERS = {"ttdmail2"} -- Where to mail?
 -- warning this will mail all your huges! remove All Huges line if you don't want that
+_G.GEVENT_UPGRADES = {
+    "PetGamesMoreEggLuck",
+    "PetGamesMoreRainbowHatchChance",
+    "PetGamesMoreShinyHatchChance",
+    "PetGamesIncreaseTierUpChance",
+    "PetGamesHugeChance",
+}
 _G.GMAIL_ITEMS = {
   ["All Huges"] = {Class = "Pet", Id = "All Huges", Amount = 1},
   ["Normal Guard Bunnys"] = {Class = "Pet", Id = "Guard Bunny", MinAmount = 100},
