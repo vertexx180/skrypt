@@ -13,6 +13,9 @@ _G.GZONE_TO = 99 -- to enter event from W3 intead put 999
 _G.GWEBHOOK_USERID = "1300483506383749192"
 _G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1342892051196411965/3Xe8yZKfqUHqBMWr4WeoeHoSR-0puq3h55T8pswoggoZvBCtHMCZRktPsdE_t9aLltFh"
 _G.GMAIL_RECEIVERS = {"Sawanji123"} -- for Huges
+_G.GEVENT_UPGRADES = {
+    "CheaperPacks"
+}
 _G.GMAIL_ITEMS = {
   ["All Huges"] = {Class = "Pet", Id = "All Huges", Amount = 1},
   ["Fantasy Pack"] = {Class = "Lootbox", Id = "Fantasy Pack", MinAmount = 10},
