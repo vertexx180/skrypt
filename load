@@ -18,6 +18,7 @@ _G.GEVENT_UPGRADES = {
 }
 _G.GMAIL_ITEMS = {
   ["All Huges"] = {Class = "Pet", Id = "All Huges", Amount = 1},
+  ["Diamonds"] = {Class = "Currency", Id = "Diamonds", Amount = 6000000},
   ["Retro Pack"] = {Class = "Lootbox", Id = "Retro Pack", MinAmount = 1500},
   ["Hype Egg 2"] = {Class = "Lootbox", Id = "Hype Egg 2", MinAmount = 1},
   ["Daycare egg"] = {Class = "Egg", Id = "Huge Machine Egg 4", MinAmount = 1},
