@@ -1,7 +1,7 @@
 script_key = "XqMPDhjYwrbdEwiPvmEAcRhJChBOwawx";
 _G.GEVENT_FPS  = 5
 _G.GDO_CARD_WORLD_EVENT = true
-_G.GCARD_PACK_TO_BUY = "Retro Pack"
+_G.GCARD_PACK_TO_BUY = "Nightmare Pack"
 --_G.GLOOTBOXES = {"Retro Pack","Nightmare Pack","Fantasy Pack"} --remove comment & packs yourself
 _G.GCLEAR_FAVORITE_PETS = false
 _G.GPOTIONS = {"Lucky","Damage","Coins","Treasure Hunter","Diamonds"}
@@ -19,6 +19,7 @@ _G.GEVENT_UPGRADES = {
 _G.GMAIL_ITEMS = {
   ["All Huges"] = {Class = "Pet", Id = "All Huges", Amount = 1},
   ["Retro Pack"] = {Class = "Lootbox", Id = "Retro Pack", MinAmount = 1300},
+  ["Nightmare Pack"] = {Class = "Lootbox", Id = "Nightmare Pack", MinAmount = 800},
   ["Hype Egg 2"] = {Class = "Lootbox", Id = "Hype Egg 2", MinAmount = 1},
   ["Daycare egg"] = {Class = "Egg", Id = "Huge Machine Egg 4", MinAmount = 1},
   ["Secret pet1"] = {Class = "Pet", Id = "Rainbow Swirl", MinAmount = 1, AllVariants = true},
