@@ -6,6 +6,7 @@ _G.GLOOTBOXES = {"Retro Pack","Nightmare Pack","Fantasy Pack", "Locked Hype Egg"
 _G.GCLEAR_FAVORITE_PETS = false
 _G.GCOINS_TO_KEEP_FOR_MERCHANT = "2.5m"
 _G.GSTAT_PET = {"Lumi Axolotl","Fairy Moth"}
+_G.GPACKS_TO_SKIP_MERCHANT = {"Retro Pack"}
 _G.GPOTIONS = {"Lucky","Damage","Coins","Treasure Hunter","Diamonds"}
 _G.GENCHANTS = {"Coins","Coins", "Strong Pets", "Criticals","Strong Pets","Strong Pets","Coins","Lucky Eggs", "Treasure Hunter","Diamonds","Tap Power"}
 _G.GMAX_POWER_FOR_PET_MASTERY_VIA_FUSING = "240t"
