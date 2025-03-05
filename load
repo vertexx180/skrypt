@@ -25,7 +25,7 @@ _G.GEVENT_UPGRADES = {
 }
 _G.GMAIL_ITEMS = {
   ["All Huges"] = {Class = "Pet", Id = "All Huges", Amount = 1},
-  ["Send all Diamonds"] = {Class = "Currency", Id = "Diamonds", KeepAmount = "1m", MinAmount = "2m"},
+  ["Send all Diamonds"] = {Class = "Currency", Id = "Diamonds", KeepAmount = "100k", MinAmount = "1m"},
   ["Huge Arcade Dog Card"] = {Class = "Card", Id = "Huge Arcade Dog Card", MinAmount = 1, AllVariants = true},
   ["Huge Pog Cat Card"] = {Class = "Card", Id = "Huge Pog Cat Card", MinAmount = 1, AllVariants = true},
   ["Huge Storm Axolotl Card"] = {Class = "Card", Id = "Huge Storm Axolotl Card", MinAmount = 1, AllVariants = true},
