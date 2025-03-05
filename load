@@ -1,8 +1,9 @@
 script_key = "XqMPDhjYwrbdEwiPvmEAcRhJChBOwawx";
 _G.GEVENT_FPS  = 5
 _G.GDO_CARD_WORLD_EVENT = true
-_G.GCARD_PACK_TO_BUY = "Axolotl Pack"
-_G.GLOOTBOXES = {"Retro Pack","Nightmare Pack","Fantasy Pack", "Locked Hype Egg", "Axolotl Pack"} --remove comment & packs yourself
+_G.GCARD_AUTO_QUEST = true
+_G.GCARD_PACK_TO_BUY = "Fantasy Pack"
+_G.GLOOTBOXES = {"Retro Pack","Nightmare Pack","Fantasy Pack", "Locked Hype Egg","Ninja Pack"} --remove comment & packs yourself
 _G.GCLEAR_FAVORITE_PETS = false
 _G.GCOINS_TO_KEEP_FOR_MERCHANT = "1.5m"
 _G.GSTAT_PET = {"Lumi Axolotl","Fairy Moth"}
