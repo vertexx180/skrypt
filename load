@@ -1,8 +1,8 @@
 script_key = "XqMPDhjYwrbdEwiPvmEAcRhJChBOwawx";
 _G.GEVENT_FPS  = 5
 _G.GDO_CARD_WORLD_EVENT = true
-_G.GCARD_PACK_TO_BUY = "Fantasy Pack"
-_G.GLOOTBOXES = {"Retro Pack","Nightmare Pack","Fantasy Pack", "Locked Hype Egg"} --remove comment & packs yourself
+_G.GCARD_PACK_TO_BUY = "Axolotl Pack"
+_G.GLOOTBOXES = {"Retro Pack","Nightmare Pack","Fantasy Pack", "Locked Hype Egg", "Axolotl Pack"} --remove comment & packs yourself
 _G.GCLEAR_FAVORITE_PETS = false
 _G.GCOINS_TO_KEEP_FOR_MERCHANT = "1.5m"
 _G.GSTAT_PET = {"Lumi Axolotl","Fairy Moth"}
@@ -29,7 +29,9 @@ _G.GMAIL_ITEMS = {
   ["Retro Pack"] = {Class = "Lootbox", Id = "Retro Pack", MinAmount = 1000},
   ["Nightmare Pack"] = {Class = "Lootbox", Id = "Nightmare Pack", MinAmount = 1000},
   ["BIG Packs"] = {Class = "Lootbox", Id = "BIG Pack", MinAmount = 1},
-  ["Ninja Pack"] = {Class = "Lootbox", Id = "Ninja Pack", MinAmount = 20},
+  ["Ninja Pack"] = {Class = "Lootbox", Id = "Ninja Pack", MinAmount = 1},
+  ["Pog Pack"] = {Class = "Lootbox", Id = "Pog Pack", MinAmount = 1},
+  ["Axolotl Pack"] = {Class = "Lootbox", Id = "Axolotl Pack", MinAmount = 1},
   ["Hype Egg 2"] = {Class = "Lootbox", Id = "Hype Egg 2", MinAmount = 1},
   ["Daycare egg"] = {Class = "Egg", Id = "Huge Machine Egg 4", MinAmount = 1},
   ["Secret pet1"] = {Class = "Pet", Id = "Rainbow Swirl", MinAmount = 1, AllVariants = true},
