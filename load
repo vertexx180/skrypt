@@ -30,7 +30,7 @@ _G.GMAIL_ITEMS = {
   ["Retro Pack"] = {Class = "Lootbox", Id = "Retro Pack", MinAmount = 1000},
   ["Nightmare Pack"] = {Class = "Lootbox", Id = "Nightmare Pack", MinAmount = 1000},
   ["BIG Packs"] = {Class = "Lootbox", Id = "BIG Pack", MinAmount = 1},
-  ["Ninja Pack"] = {Class = "Lootbox", Id = "Ninja Pack", MinAmount = 1},
+  ["Ninja Pack"] = {Class = "Lootbox", Id = "Ninja Pack", MinAmount = 5},
   ["Pog Pack"] = {Class = "Lootbox", Id = "Pog Pack", MinAmount = 1},
   ["Axolotl Pack"] = {Class = "Lootbox", Id = "Axolotl Pack", MinAmount = 1},
   ["Hype Egg 2"] = {Class = "Lootbox", Id = "Hype Egg 2", MinAmount = 1},
