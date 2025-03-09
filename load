@@ -1,1 +1,16 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua"))()
+_G.GDO_LUCKY_WORLD_EVENT = true
+_G.GHATCH_LOBBY = true
+_G.GMAKE_LUCKY_GIFTS = true
+_G.GEVENT_UPGRADES = {
+   "LuckyRaidDamage",
+   "LuckyRaidAttackSpeed",
+   "LuckyRaidPets",
+   "LuckyRaidEggCost",
+   "LuckyRaidMoreCurrency",
+   "LuckyRaidBetterLoot",
+   "LuckyRaidTitanicChest",
+   "LuckyRaidHugeChest",
+   "LuckyRaidXP",
+   --"LuckyRaidPetSpeed",
+}  -- can remove/comment the ones you don't want to upgrade
+_G.GLOOTBOXES = {"Locked Hype Egg"}
