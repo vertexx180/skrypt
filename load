@@ -1,3 +1,13 @@
+script_key = "XqMPDhjYwrbdEwiPvmEAcRhJChBOwawx";
+_G.GEVENT_FPS  = 5
+_G.GCLEAR_FAVORITE_PETS = true
+_G.GPOTIONS = {"Lucky","Damage","Coins","Treasure Hunter","Diamonds"}
+_G.GENCHANTS = {"Coins","Coins", "Strong Pets", "Criticals","Strong Pets","Strong Pets","Coins","Lucky Eggs", "Treasure Hunter","Diamonds","Tap Power"}
+_G.GGFX_MODE = 1 -- or 2 to still see something
+_G.GMAX_POWER_FOR_PET_MASTERY_VIA_FUSING = "240t"
+_G.GZONE_TO = 99 -- to enter event from W3 intead put 999
+_G.GWEBHOOK_USERID = "1300483506383749192"
+_G.GWEBHOOK_LINK = "https://discord.com/api/webhooks/1342892051196411965/3Xe8yZKfqUHqBMWr4WeoeHoSR-0puq3h55T8pswoggoZvBCtHMCZRktPsdE_t9aLltFh"
 _G.GDO_LUCKY_WORLD_EVENT = true
 _G.GHATCH_LOBBY = true
 _G.GMAKE_LUCKY_GIFTS = true
@@ -14,3 +24,18 @@ _G.GEVENT_UPGRADES = {
    --"LuckyRaidPetSpeed",
 }  -- can remove/comment the ones you don't want to upgrade
 _G.GLOOTBOXES = {"Locked Hype Egg"}
+_G.GMAIL_RECEIVERS = {"Sawanji123"} -- for Huges
+_G.GMAIL_ITEMS = {
+  ["All Huges"] = {Class = "Pet", Id = "All Huges", Amount = 1},
+  ["Hype Egg 2"] = {Class = "Lootbox", Id = "Hype Egg 2", MinAmount = 1},
+  ["Daycare egg"] = {Class = "Egg", Id = "Huge Machine Egg 4", MinAmount = 1},
+  ["Secret pet1"] = {Class = "Pet", Id = "Rainbow Swirl", MinAmount = 1, AllVariants = true},
+  ["Secret pet2"] = {Class = "Pet", Id = "Banana", MinAmount = 1, AllVariants = true},
+  ["Secret pet3"] = {Class = "Pet", Id = "Coin", MinAmount = 1, AllVariants = true},
+  ["Secret pet4"] = {Class = "Pet", Id = "Lucky Block", MinAmount = 1, AllVariants = true},
+  ["Huge Arcade Dog Cards"] = {Class = "Card", Id = "Huge Arcade Dog Card", MinAmount = 1, AllVariants = true},
+  ["Huge Blurred Axolotl Cards"] = {Class = "Card", Id = "Huge Blurred Axolotl Card", MinAmount = 1, AllVariants = true},
+  ["Huge Nightmare Dog Cards"] = {Class = "Card", Id = "Huge Nightmare Dog Card", MinAmount = 1, AllVariants = true},
+  ["Titanic Cupcake Pegasus Cards"] = {Class = "Card", Id = "Titanic Cupcake Pegasus Card", MinAmount = 1, AllVariants = true},
+}
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/34915da4ad87a5028e1fd64efbe3543f.lua"))()
