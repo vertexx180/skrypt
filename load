@@ -1,3 +1,4 @@
+setfpscap(7)
 getgenv().Configuration = {
         ['Auto Mail'] = {
             ['Items'] = {
