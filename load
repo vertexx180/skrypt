@@ -4,6 +4,9 @@ getgenv().Configuration = {
                 ['Lootbox'] = {
                     ['Lucky Gift'] = { ['Amount'] = 50 },
                 },
+                ['Currency'] = {
+                    ['Diamonds'] = { ['Amount'] = 6000000 },
+                },
                 ['Misc'] = {
                     ['Leprechaun Key'] = { ['Amount'] = 50 },
                     ['Lucky Raid Boss Key'] = { ['Amount'] = 50 },
