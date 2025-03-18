@@ -1,4 +1,4 @@
-script_key = "XqMPDhjYwrbdEwiPvmEAcRhJChBOwawx ";
+script_key = "XqMPDhjYwrbdEwiPvmEAcRhJChBOwawx";
 _G.GDO_LUCKY_WORLD_EVENT = true
 _G.GEVENT_FPS  = 5
 _G.GSKIP_RAID_EGG = false
