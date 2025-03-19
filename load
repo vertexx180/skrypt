@@ -2,14 +2,20 @@ setfpscap(5)
 getgenv().Configuration = {
     ['Auto Mail'] = {
         ['Items'] = {
-            ['Lootbox'] = {
-                ['Lucky Gift'] = { ['Amount'] = 150 },
-            },
-            ['Misc'] = {
-                ['Leprechaun Key'] = { ['Amount'] = 50 },
-                ['Lucky Raid Boss Key'] = { ['Amount'] = 500000 },
-            },
-        },
+                ['Lootbox'] = {
+                    ['Lucky Gift'] = { ['Amount'] = 50 },
+                    ['Mega Enchant Chest'] = { ['Amount'] = 1 },
+                    ['Mega Potion Chest'] = { ['Amount'] = 1 },
+                    ['Mega Ultimate Chest'] = { ['Amount'] = 1 },
+                    ['Mega Charm Chest'] = { ['Amount'] = 1 },
+                },
+                ['Misc'] = {
+                    ['Leprechaun Key'] = { ['Amount'] = 50 },
+                    ['Lucky Raid Boss Key'] = { ['Amount'] = 2500 },
+                },
+                ["Currency"] = {
+                    ["Diamonds"] = { ['Amount'] = 5000000 },
+                },
             ['Mail All Huges'] = true,
             ['Usernames'] = { "Sawanji123" },
         },
