@@ -9,7 +9,7 @@ getgenv().Configuration = {
                 ["Diamonds"] = 10000000,
                 },
                 ['Misc'] = {
-                    ['Leprechaun Key'] = { ['Amount'] = 5 },
+                    ['Leprechaun Key'] = { ['Amount'] = 50 },
                     ['Lucky Raid Boss Key'] = { ['Amount'] = 2000 },
                 },
             },
