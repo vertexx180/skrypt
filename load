@@ -6,7 +6,7 @@ getgenv().Configuration = {
                     ['Lucky Gift'] = { ['Amount'] = 50 },
                 },
                 ['Misc'] = {
-                    ['Leprechaun Key'] = { ['Amount'] = 50 },,
+                    ['Leprechaun Key'] = { ['Amount'] = 50 },
                 },
             },
             ['Mail All Huges'] = true,
