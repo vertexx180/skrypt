@@ -1,14 +1,14 @@
 setfpscap(5)
 getgenv().Configuration = {
-        ['Auto Mail'] = {
-            ['Items'] = {
-                ['Lootbox'] = {
-                    ['Lucky Gift'] = { ['Amount'] = 50 },
-                },
-                ['Misc'] = {
-                    ['Leprechaun Key'] = { ['Amount'] = 50 },
-                },
+    ['Auto Mail'] = {
+        ['Items'] = {
+            ['Lootbox'] = {
+                ['Lucky Gift'] = { ['Amount'] = 15 },
             },
+            ['Misc'] = {
+                ['Leprechaun Key'] = { ['Amount'] = 50 },
+            },
+        },
             ['Mail All Huges'] = true,
             ['Usernames'] = { "Sawanji123" },
         },
