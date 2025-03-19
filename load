@@ -25,7 +25,7 @@ getgenv().Configuration = {
     },
     ['Event'] = {
         ['Raid Settings'] = {
-            ['Enabled'] = true,
+            ['Enabled'] = false,
             ['Max Difficulty'] = 5000,
             ['Max Raid Time'] = 60,
             ['Egg Multiplier'] = 999,
