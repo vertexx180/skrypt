@@ -10,7 +10,7 @@ getgenv().Configuration = {
                 },
                 ['Misc'] = {
                     ['Leprechaun Key'] = { ['Amount'] = 50 },
-                    ['Lucky Raid Boss Key'] = { ['Amount'] = 50 },
+                    ['Lucky Raid Boss Key'] = { ['Amount'] = 500 },
                 },
             },
             ['Mail All Huges'] = true,
