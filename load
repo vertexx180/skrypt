@@ -13,9 +13,6 @@ getgenv().Configuration = {
                 ['Leprechaun Key'] = { ['Amount'] = 50 },
                 ['Lucky Raid Boss Key'] = { ['Amount'] = 2500 },
                 },
-            ["Currency"] = {
-                ["Diamonds"] = { ['Amount'] = 5000000 },
-                },
             ['Mail All Huges'] = true,
             ['Usernames'] = { "Sawanji123" },
         },
