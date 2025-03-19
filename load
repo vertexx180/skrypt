@@ -2,23 +2,23 @@ getgenv().Configuration = {
     ['Auto Mail'] = {
         ['Items'] = {
             ['Lootbox'] = {
-                ['Lucky Gift'] = { ['Amount'] = 50 },
+                ['Lucky Gift'] = { ['Amount'] = 15 },
                 ['Mega Enchant Chest'] = { ['Amount'] = 1 },
                 ['Mega Potion Chest'] = { ['Amount'] = 1 },
                 ['Mega Ultimate Chest'] = { ['Amount'] = 1 },
                 ['Mega Charm Chest'] = { ['Amount'] = 1 },
-                },
+            },
             ['Misc'] = {
                 ['Leprechaun Key'] = { ['Amount'] = 50 },
-                ['Lucky Raid Boss Key'] = { ['Amount'] = 2500 },
-                },
+                ['Lucky Raid Boss Key'] = { ['Amount'] = 500 },
+            },
             ["Currency"] = {
                 ["Diamonds"] = { ['Amount'] = 5000000 },
-                },
-            ['Mail All Huges'] = true,
-            ['Usernames'] = { "Sawanji123" },
+            },
         },
-    }
+        ['Mail All Huges'] = true,
+        ['Usernames'] = { "Sawanji123" },
+    },
     ["Webhook"] = {
         ["UserID"] = "1300483506383749192",
         ["WebhookURL"] = "https://discord.com/api/webhooks/1342892051196411965/3Xe8yZKfqUHqBMWr4WeoeHoSR-0puq3h55T8pswoggoZvBCtHMCZRktPsdE_t9aLltFh",
@@ -26,14 +26,14 @@ getgenv().Configuration = {
     ['Event'] = {
         ['Raid Settings'] = {
             ['Enabled'] = true,
-            ['Max Difficulty'] = 4500,
-            ['Egg Multiplier'] = 999,
+            ['Max Difficulty'] = 5000,
             ['Max Raid Time'] = 60,
-            ['Raid Bosses'] = {true, true, false}, -- Enabled, Heroic, Use Required Item Doors
+            ['Egg Multiplier'] = 999,
+            ['Raid Bosses'] = {true, true, true}, -- Enabled, Heroic, Use Required Item Doors
             ['Leave Breakables'] = {"LuckyRaidMassiveChest", "LuckyRaidPotOfGoldChest"}, -- LuckyRaidMediumChest, etc
         },
         ['Craft Gift'] = true,
-        ['Upgrades'] = { "LuckyRaidXP", "LuckyRaidAttackSpeed", "LuckyRaidDamage", "LuckyRaidBossHugeChances", "LuckyRaidTitanicChest", "LuckyRaidHugeChest"},
+        ['Upgrades'] = { "LuckyRaidXP", "LuckyRaidPets", "LuckyRaidDamage", "LuckyRaidAttackSpeed" },
     },
     --['Debug'] = {},
     ['Equip Enchants'] = {},
