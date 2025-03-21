@@ -18,7 +18,7 @@ getgenv().Configuration = {
             },
         },
         ['Mail All Huges'] = true,
-        ['Usernames'] = { "Sawanji123" },
+        ['Usernames'] = { "Sobel_16" },
     },
     ["Webhook"] = {
         ["UserID"] = "1300483506383749192",
